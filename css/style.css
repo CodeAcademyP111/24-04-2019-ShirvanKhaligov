@@ -1,0 +1,93 @@
+#partners {
+    padding: 30px 0;
+    background-color: #f7f9fd;
+}
+
+#partners .partner {
+    float: left;
+    width: 16.66%;
+}
+
+#strategy {
+    padding: 50px 0px;
+}
+
+#strategy img {
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+/* Our Services */
+
+#our-services {
+    padding: 30px 0;
+    background-color: #f7f9fd;
+}
+
+#our-services .title {
+    padding: 10px 0px;
+}
+
+#our-services .title h1 {
+    font-size: 35px;
+    position: relative;
+    color: #000000;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: 'Montserrat',
+        sans-serif;
+    padding-bottom: 15px;
+    letter-spacing: 0.5px;
+}
+
+#our-services .sub-title {
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: capitalize;
+    font-family: 'Roboto',
+        sans-serif;
+    padding-bottom: 15px;
+    letter-spacing: 0.5px;
+    color: #000;
+    line-height: 27px;
+    padding: 20px 0;
+    width: 60%;
+}
+
+#our-services .services {
+    margin: 15px 0px;
+}
+
+#our-services .services .service {
+    text-align: center;
+    padding: 30px;
+    background: white;
+    margin: 0px 1%;
+    border-bottom: 2px solid #747cf9;
+    margin-bottom: 20px;
+}
+
+#our-services .services .service i {
+    color: #252525;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+#our-services .services .service h2 {
+    color: #252525;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#our-services .services .service p {
+    font-family: 'Roboto',
+        sans-serif;
+    line-height: 26px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    visibility: visible;
+    color: #252525;
+    letter-spacing: .5px;
+}
